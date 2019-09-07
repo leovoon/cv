@@ -1,0 +1,36 @@
+body {
+    background-color: #d9ebe8;
+}
+
+hr {
+    background-color: #d9ebe8;
+    border-style: dotted none none;
+    /* top | horizontal | bottom */
+    /* You can also do
+        border-style: none;
+        border-top-style: dotted;
+         */
+    border-color: gray;
+    border-width: 5px;
+    width: 4%;
+}
+
+h1 {
+    color: #32685e;
+}
+
+h3 {
+    color: #57a99a;
+}
+
+a {
+    color: #32685e;
+}
+
+img.photo {
+    border: none;
+    border-radius: 50%;
+    display: block;
+}
+
+
