@@ -33,4 +33,14 @@ img.photo {
     display: block;
 }
 
+footer {
+    text-align: center;
+    padding: .3rem;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 
